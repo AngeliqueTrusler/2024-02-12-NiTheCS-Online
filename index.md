@@ -4,7 +4,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "National Institute for Theoretical and Computational Sciences"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Online; [Zoom link](https://nithecs-ac-za.zoom.us/j/94426477903?pwd=RVhHMXFqZjhoY0t2Qm01UXN1b3JEZz09), Passcode: 853556"   # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "Online; Zoom link: https://nithecs-ac-za.zoom.us/j/94426477903?pwd=RVhHMXFqZjhoY0t2Qm01UXN1b3JEZz09, Passcode: 853556"   # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "-33.879804294693926"        # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -18,6 +18,7 @@ helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marl
 email: ["thuthukile.khumalo@nithecs.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://pad.carpentries.org/2024-02-12-NiTheCS-Online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 # eventbrite: "623461328617" # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+
 --- 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
